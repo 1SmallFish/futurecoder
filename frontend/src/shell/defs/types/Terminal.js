@@ -37,7 +37,7 @@ const labelTypes = {
 }
 
 const commandTypes = {
-  onCommand: PropTypes.object.func,
+  onCommand: PropTypes.func,
   commandCallback: PropTypes.func
 }
 
